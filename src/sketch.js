@@ -1,5 +1,5 @@
 
-alert()
+alert(4);
 
 function setup(){
   
